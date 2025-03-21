@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartSQL", "SmartSQL\SmartSQL.csproj", "{9DE9ED07-B88D-4606-9F89-F4C69193051B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DE9ED07-B88D-4606-9F89-F4C69193051B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE9ED07-B88D-4606-9F89-F4C69193051B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE9ED07-B88D-4606-9F89-F4C69193051B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE9ED07-B88D-4606-9F89-F4C69193051B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57C09257-1A9B-48DF-BF8D-62376888191D}
+	EndGlobalSection
+EndGlobal
